@@ -9,7 +9,7 @@ Build without ICU, support for collations and charset conversion functions disab
 ### Add homebrew tap
 
 ```bash
-brew tap arduanov/clickhouse
+brew tap crmaxx/clickhouse
 ```
 
 ### Install ClickHouse
